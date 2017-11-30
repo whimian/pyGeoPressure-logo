@@ -10,13 +10,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="793.70081"
-   height="1122.5197"
-   viewBox="0 0 210 297"
+   width="693.35333mm"
+   height="364.87994mm"
+   viewBox="0 0 693.35333 364.87996"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="drawing.svg">
+   sodipodi:docname="pyGeoPressure-LOGO.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -199,20 +199,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-2237.8251"
-     inkscape:cy="674.92941"
+     inkscape:zoom="0.019506394"
+     inkscape:cx="7618.3583"
+     inkscape:cy="836.72657"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     units="px"
+     units="mm"
      showborder="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="996"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:object-paths="true" />
+     inkscape:window-width="750"
+     inkscape:window-height="440"
+     inkscape:window-x="536"
+     inkscape:window-y="172"
+     inkscape:window-maximized="0"
+     inkscape:object-paths="true"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -221,14 +225,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(5094.2072,2706.6267)">
     <rect
        inkscape:label="rect4493"
        style="display:none;fill:#00ff00;stroke-width:0.20445833;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none"
@@ -254,14 +259,14 @@
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;fill:#c2c4c7;fill-opacity:1;stroke-width:0.17508481;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -635.59556,-144.11555 189.76128,82.834835 -189.76128,82.834837 -189.76146,-82.834836 z"
+       d="m -4763.524,-2705.6267 189.7613,82.8348 -189.7613,82.8348 -189.7615,-82.8348 z"
        id="rect4489"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="22.043722"
        inkscape:export-ydpi="22.043722" />
     <path
        style="display:inline;fill:#f5a32a;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -825.35702,-3.0559121 V -17.286257 l 189.76172,80.749124 -2.5e-4,36.628543 z"
+       d="m -4953.2855,-2564.5671 v -14.2303 l 189.7618,80.7491 -3e-4,36.6285 z"
        id="path6019"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -269,7 +274,7 @@
        inkscape:export-ydpi="22.043722" />
     <path
        style="display:inline;fill:#f9d933;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -445.83429,-5.1940684 V -18.687455 l -189.76101,82.150322 -2.5e-4,36.628543 z"
+       d="m -4573.7627,-2566.7052 v -13.4934 l -189.761,82.1503 -3e-4,36.6285 z"
        id="path6021"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -277,7 +282,7 @@
        inkscape:export-ydpi="22.043722" />
     <path
        style="display:inline;fill:#969596;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -635.59556,21.554121 v 41.908661 l -189.76138,-94.594511 -8e-5,-30.148983 z"
+       d="m -4763.524,-2539.9571 v 41.9087 l -189.7614,-94.5945 -1e-4,-30.149 z"
        id="path6027"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -285,7 +290,7 @@
        inkscape:export-ydpi="22.043722" />
     <path
        style="display:inline;fill:#bab9bb;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -635.59556,21.554121 189.76128,-82.834836 -9e-5,29.079908 -189.76093,95.663674 z"
+       d="m -4763.524,-2539.9571 189.7613,-82.8348 -1e-4,29.0799 -189.7609,95.6637 z"
        id="path6061"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -293,14 +298,14 @@
        inkscape:export-ydpi="22.043722" />
     <path
        style="display:inline;fill:#6b4e44;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -445.83437,-19.37187 -15.36692,-5.082056 -174.39427,87.916708 z"
+       d="m -4573.7628,-2580.8831 -15.3669,-5.082 -174.3943,87.9167 z"
        id="path6063"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="22.043722"
        inkscape:export-ydpi="22.043722" />
     <path
        style="display:inline;fill:#6b4e44;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -825.35702,-17.286257 27.40817,-0.182755 162.35329,80.931794 z"
+       d="m -4953.2855,-2578.7974 27.4082,-0.1828 162.3533,80.9318 z"
        id="path6065"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="22.043722"
@@ -309,7 +314,7 @@
        xml:space="preserve"
        id="flowRoot6149"
        style="font-style:normal;font-weight:normal;font-size:74.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.58063045,0,0,0.58063045,-627.39295,-202.9186)"
+       transform="matrix(0.58063045,0,0,0.58063045,-4755.3214,-2764.4297)"
        inkscape:export-xdpi="22.043722"
        inkscape:export-ydpi="22.043722"><flowRegion
          id="flowRegion6151"
